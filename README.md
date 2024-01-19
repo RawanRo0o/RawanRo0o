@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @RawanRo0o
-- 👀 I’m interested in front-end
-- 🌱 I’m currently learning 
+- 👀 I’m interested in front-end| 💻 Coding Explorer | 🌐 Web Developer
+- 🌱 I’m currently learning and building cool stuff with code.
+
   
 
 <!---
